@@ -13,5 +13,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello");
         System.out.println("I'm in branch1");
+        System.out.println("BRANCH1");
     }
 }
